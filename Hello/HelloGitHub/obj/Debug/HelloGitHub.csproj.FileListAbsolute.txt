@@ -1,0 +1,6 @@
+C:\Tech\Code\GH\HelloGH\Hello\HelloGitHub\bin\Debug\HelloGitHub.exe.config
+C:\Tech\Code\GH\HelloGH\Hello\HelloGitHub\bin\Debug\HelloGitHub.exe
+C:\Tech\Code\GH\HelloGH\Hello\HelloGitHub\bin\Debug\HelloGitHub.pdb
+C:\Tech\Code\GH\HelloGH\Hello\HelloGitHub\obj\Debug\HelloGitHub.csprojResolveAssemblyReference.cache
+C:\Tech\Code\GH\HelloGH\Hello\HelloGitHub\obj\Debug\HelloGitHub.exe
+C:\Tech\Code\GH\HelloGH\Hello\HelloGitHub\obj\Debug\HelloGitHub.pdb
