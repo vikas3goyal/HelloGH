@@ -10,7 +10,7 @@ namespace HelloGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello GitHub");
+            Console.WriteLine("Hello GitHub. i was born on branch v1");
         }
     }
 }
